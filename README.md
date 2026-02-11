@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/VTU26595/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VTU26595/Applied-programming-skills/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0219-contains-duplicate-ii](https://github.com/VTU26595/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/VTU26595/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/VTU26595/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0496-next-greater-element-i](https://github.com/VTU26595/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/VTU26595/Applied-programming-skills/tree/master/0621-task-scheduler) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/VTU26595/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
+| [0239-sliding-window-maximum](https://github.com/VTU26595/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VTU26595/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Math
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/VTU26595/Applied-programming-skills/tree/master/0232-implement-queue-using-stacks) |
+| [0239-sliding-window-maximum](https://github.com/VTU26595/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/VTU26595/Applied-programming-skills/tree/master/0387-first-unique-character-in-a-string) |
 | [0622-design-circular-queue](https://github.com/VTU26595/Applied-programming-skills/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/VTU26595/Applied-programming-skills/tree/master/0641-design-circular-deque) |
@@ -168,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/VTU26595/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [0621-task-scheduler](https://github.com/VTU26595/Applied-programming-skills/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VTU26595/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Ordered Set
@@ -177,5 +181,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Queue
 |  |
 | ------- |
+| [0239-sliding-window-maximum](https://github.com/VTU26595/Applied-programming-skills/tree/master/0239-sliding-window-maximum) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VTU26595/Applied-programming-skills/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
