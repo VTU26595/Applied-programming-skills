@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VTU26595/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/VTU26595/Applied-programming-skills/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/VTU26595/Applied-programming-skills/tree/master/0739-daily-temperatures) |
+| [0946-validate-stack-sequences](https://github.com/VTU26595/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU26595/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU26595/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1480-running-sum-of-1d-array](https://github.com/VTU26595/Applied-programming-skills/tree/master/1480-running-sum-of-1d-array) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VTU26595/Applied-programming-skills/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/VTU26595/Applied-programming-skills/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/VTU26595/Applied-programming-skills/tree/master/0901-online-stock-span) |
+| [0946-validate-stack-sequences](https://github.com/VTU26595/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/VTU26595/Applied-programming-skills/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/VTU26595/Applied-programming-skills/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 ## Recursion
@@ -115,4 +117,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/VTU26595/Applied-programming-skills/tree/master/0901-online-stock-span) |
+## Simulation
+|  |
+| ------- |
+| [0946-validate-stack-sequences](https://github.com/VTU26595/Applied-programming-skills/tree/master/0946-validate-stack-sequences) |
 <!---LeetCode Topics End-->
