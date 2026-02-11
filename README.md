@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VTU26595/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0219-contains-duplicate-ii](https://github.com/VTU26595/Applied-programming-skills/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/VTU26595/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/VTU26595/Applied-programming-skills/tree/master/0704-binary-search) |
@@ -12,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VTU26595/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/VTU26595/Applied-programming-skills/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU26595/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VTU26595/Applied-programming-skills/tree/master/0075-sort-colors) |
 | [0977-squares-of-a-sorted-array](https://github.com/VTU26595/Applied-programming-skills/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
